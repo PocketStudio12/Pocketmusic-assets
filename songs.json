@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1780991996184,
+    "name": "Coffee Houser Sei Addata",
+    "singer": "",
+    "category": "Bengali",
+    "image": "http://147.135.213.131:20331/uploads/images/1780991976314-1775973951067-hridayer-gaan-manna-dey-manna-dey.webp",
+    "music": "http://147.135.213.131:20331/uploads/songs/1780991976682-1775973951139-Coffee Houser Sei Addata.mp3"
+  },
+  {
+    "id": 1780992349873,
+    "name": "Sahiba",
+    "singer": "Aditya Rikhari",
+    "category": "Punjabi",
+    "image": "http://147.135.213.131:20331/uploads/images/1780992342937-1774614532461-29016_4.webp",
+    "music": "http://147.135.213.131:20331/uploads/songs/1780992342945-1774614532520-Sahiba.mp3"
+  },
+  {
+    "id": 1781003440128,
+    "name": "Tum Hi Ho",
+    "singer": "Arijit Singh",
+    "category": "Hindi",
+    "image": "http://147.135.213.131:20331/uploads/images/1781003409726-1780667251026-arijit-romantic-hits-cover-image.webp",
+    "music": "http://147.135.213.131:20331/uploads/songs/1781003409736-1780667251095-Tum Hi Ho (From Aashiqui 2).mp3"
+  },
+  {
+    "id": 1781003590980,
+    "name": "Aaj Ki Raat",
+    "singer": "",
+    "category": "Hindi",
+    "image": "http://147.135.213.131:20331/uploads/images/1781003583842-1774621950628-aaj-ki-raat-stree-2-500-500.jpg",
+    "music": "http://147.135.213.131:20331/uploads/songs/1781003584536-1774621950638-Aaj Ki Raat Stree 2 128 Kbps.mp3"
+  },
+  {
+    "id": 1781003633134,
+    "name": "Paro",
+    "singer": "",
+    "category": "Hindi",
+    "image": "http://147.135.213.131:20331/uploads/images/1781003629487-1776068906481-thumb_68e0ba2fabd14.webp",
+    "music": "http://147.135.213.131:20331/uploads/songs/1781003629516-1776068906490-Paro.mp3"
+  },
+  {
+    "id": 1781003766924,
+    "name": "Gehra Hua",
+    "singer": "",
+    "category": "Hindi",
+    "image": "http://147.135.213.131:20331/uploads/images/1781003727735-1775973672350-gehra-hua-from-dhurandhar--cover-image.webp",
+    "music": "http://147.135.213.131:20331/uploads/songs/1781003728504-1775973672353-Gehra Hua.mp3"
+  },
+  {
+    "id": 1781003828790,
+    "name": "Hari Om Hari Om",
+    "singer": "",
+    "category": "Hindi",
+    "image": "http://147.135.213.131:20331/uploads/images/1781003812041-1775973415388-karzzzz-cover-image.webp",
+    "music": "http://147.135.213.131:20331/uploads/songs/1781003812441-1775973415394-Hari Om Hari Om.mp3"
+  },
+  {
+    "id": 1781004107034,
+    "name": "Kesariya",
+    "singer": "Arijit Singh",
+    "category": "Hindi",
+    "image": "http://147.135.213.131:20331/uploads/images/1781004087207-kesariya-brahmastra-500-500.jpeg",
+    "music": "http://147.135.213.131:20331/uploads/songs/1781004087983-Kesariya Brahmastra 128 Kbps.mp3"
+  },
+  {
+    "id": 1781154504690,
+    "name": "Aaj Ei Dintake",
+    "singer": "Kishore Kumar",
+    "category": "Bengali",
+    "image": "http://147.135.213.131:20331/uploads/images/1781154502298-kishore-kumar-birthday-special-bengali.webp",
+    "music": "http://147.135.213.131:20331/uploads/songs/1781154502574-Aaj Ei Dintake.mp3"
+  },
+  {
+    "id": 1781155748510,
+    "name": "O Mere Dil Ke Chain",
+    "singer": "Kishore Kumar",
+    "category": "Hindi",
+    "image": "http://147.135.213.131:20331/uploads/images/1781155746052-o-mere-dil-ke-chain-mere-jeevan-saathi-500-500.jpeg",
+    "music": "http://147.135.213.131:20331/uploads/songs/1781155746397-O Mere Dil Ke Chain Mere Jeevan Saathi 128 Kbps.mp3"
+  }
+]
